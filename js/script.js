@@ -1,6 +1,6 @@
 // CONFIGURAÇÕES DO SUPABASE
-const SUPABASE_URL = 'SUA_PROJECT_URL_AQUI';
-const SUPABASE_ANON_KEY = 'SUA_ANON_KEY_AQUI';
+const SUPABASE_URL = 'https://zbbpmfzwshuezocsgfzj.supabase.co';
+const SUPABASE_ANON_KEY = 'sb_publishable_-BtbW5MtM2MXXPdnZG5jJw_twbIgmbw';
 const _supabase = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
 const WHATSAPP_NUMBER = "5511976546168"; 
